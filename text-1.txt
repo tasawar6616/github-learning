@@ -2,3 +2,4 @@ hey tasawar how are you , i am learning github all commands
 hey there i am using it to test
 hey there i am adding this new code to child branch 
 i am adding this text to the main bracnh 
+this text is added in feature branch=
